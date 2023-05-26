@@ -67,7 +67,7 @@ public class CalculatorTest {
 			int actual = cal.divide(a, b);
 			
 			int expected = 10;
-			assertEquals(actual, expected); //hakim1
+			assertEquals(actual, expected); //hakim
 	}
 
 }
